@@ -2,7 +2,8 @@
   {
     "title": "Lachender Löffel",
     "description": "Dieser Löffel bringt dich zum Lachen!",
-    "price": 15.99
+    "price": 15.99,
+    "reducedPrice": 12.99
   },
   {
     "title": "Witzige Tasse",
@@ -12,7 +13,8 @@
   {
     "title": "Komischer Kürbis",
     "description": "Ein Kürbis, der komisch aussieht!",
-    "price": 9.99
+    "price": 9.99,
+    "reducedPrice": 7.99
   },
   {
     "title": "Lustiger Hut",
@@ -22,7 +24,8 @@
   {
     "title": "Seltsamer Schuh",
     "description": "Ein Schuh, der an der Decke laufen kann!",
-    "price": 29.99
+    "price": 29.99,
+    "reducedPrice": 24.99
   },
   {
     "title": "Bizarre Flasche",
@@ -32,7 +35,8 @@
   {
     "title": "Kuriose Kerze",
     "description": "Eine Kerze, die ohne Feuer leuchtet!",
-    "price": 19.99
+    "price": 19.99,
+    "reducedPrice": 14.99
   },
   {
     "title": "Verrückter Ventilator",
@@ -42,6 +46,7 @@
   {
     "title": "Wunderliche Waage",
     "description": "Eine Waage, die das Gewicht deiner Gedanken misst!",
-    "price": 59.99
+    "price": 59.99,
+    "reducedPrice": 54.99
   }
 ]
