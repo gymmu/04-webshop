@@ -1,4 +1,4 @@
-import { jsonLoader } from "./utils";
+import { jsonLoader } from "./utils"
 
 function render(data, targetElement) {
   targetElement.innerHTML += `
@@ -8,16 +8,17 @@ function render(data, targetElement) {
         ${data.description}
     </div>
 </div>
-`;
+`
 }
 
 async function main() {
-  const artList = document.getElementById("article-list");
+  const artList = document.getElementById("article-list")
 
-  const data = await jsonLoader("public/level-02.json");
+  const data = await jsonLoader("public/level-02.json")
+
   for (let i = 0; i < data.length; i++) {
-    render(data[i], artList);
+    render(data[i], artList)
   }
 }
 
-document.addEventListener("DOMContentLoaded", main);
+document.addEventListener("DOMContentLoaded", main)
