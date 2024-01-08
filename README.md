@@ -123,3 +123,12 @@ Erstellen Sie in der Datei `src/main.js` eine globale Variable `const G = {}`.
 Erstellen Sie 2 Buttons auf der Webseite mit `weiter` und `zurück`. Die Buttons
 sollen jeweils die Variable `G` so verändern, dass die nächste Seite angezeigt
 wird.
+
+### Aufgabe 11
+
+Suchen Sie im Internet nach einem weiteren Datensatz im JSON Format. Es müssen
+nicht unbedingt Daten für einen Webshop sein.
+
+- Kopieren Sie den Datensatz in `public/level-06.json`.
+- Untersuchen Sie den Datensatz.
+- Stellen Sie diesen Datensatz auf Ihrer Webseite dar.
